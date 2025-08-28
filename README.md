@@ -25,5 +25,5 @@ A Java-based desktop application that simulates core banking operations like acc
 
 
 
-## 📁 Folder Structure
+
 
